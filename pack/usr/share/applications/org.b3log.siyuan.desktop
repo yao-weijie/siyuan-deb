@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=思源笔记
+Version=2.5.1
+Exec=/opt/apps/org.b3log.siyuan/siyuan %U
+Comment=SiYuan for linux
+Icon=/opt/apps/org.b3log.siyuan/resources/stage/icon.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Office;Application;Utility;

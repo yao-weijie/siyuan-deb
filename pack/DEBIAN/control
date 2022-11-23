@@ -1,0 +1,5 @@
+Package: org.b3log.siyuan
+Version: 2.5.1
+Architecture: amd64
+Description: SiYuan for linux
+Maintainer: b3log.org
